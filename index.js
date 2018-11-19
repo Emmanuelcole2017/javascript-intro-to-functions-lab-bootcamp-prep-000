@@ -17,7 +17,7 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   var stringCheck = string
   if(stringCheck.toUpperCase() === stringCheck){
-    return "YES INDEED"
+    return "YES INDEED!"
   }
 
   if(stringCheck.toLowerCase() === stringCheck){
